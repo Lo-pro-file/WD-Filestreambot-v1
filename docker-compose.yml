@@ -7,7 +7,7 @@ services:
     command: bash bash.sh
     environment:
       API_ID:243514944 # Your API HASH from my.telegram.org
-      API_HASH:608c07bta57d9130d9974c9b3639ec570 # Your API ID from my.telegram.org
+      API_HASH:608c07bta57d9130d869974c9b3639ec570 # Your API ID from my.telegram.org
       BOT_TOKEN:60146865583:AAFLILFmIw5xZ3XmNqBXdp89A7VnZNr1eHo # Bot token, get it from @BotFather
       BIN_CHANNEL:-10016944172464 # The BIN Channel ID. Read the readme for more info about this var
       DATABASE_URL:mongodb+srv://Filestre4mbot:Filestream4bot@cluster0.j0hcwom.mongodb.net/?retryWrites=true&w=majority # MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help search for a tutorial on youtbe
