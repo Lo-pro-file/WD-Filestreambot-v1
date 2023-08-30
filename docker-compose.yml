@@ -6,11 +6,11 @@ services:
     build: .
     command: bash bash.sh
     environment:
-      API_ID:24314944 # Your API HASH from my.telegram.org
-      API_HASH:608c07ba57d9130d9974c9b3639ec570 # Your API ID from my.telegram.org
-      BOT_TOKEN:6014685583:AAFLILFmIw5xZ3XmNqBXdp89A7VnZNr1eHo # Bot token, get it from @BotFather
-      BIN_CHANNEL:-1001944172464 # The BIN Channel ID. Read the readme for more info about this var
-      DATABASE_URL:mongodb+srv://Filestreambot:Filestreambot@cluster0.j0hcwom.mongodb.net/?retryWrites=true&w=majority # MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help search for a tutorial on youtbe
-      OWNER_ID:6264350806 # Your Telegram User ID  like 1234509
+      API_ID:243514944 # Your API HASH from my.telegram.org
+      API_HASH:608c07bta57d9130d9974c9b3639ec570 # Your API ID from my.telegram.org
+      BOT_TOKEN:60146865583:AAFLILFmIw5xZ3XmNqBXdp89A7VnZNr1eHo # Bot token, get it from @BotFather
+      BIN_CHANNEL:-10016944172464 # The BIN Channel ID. Read the readme for more info about this var
+      DATABASE_URL:mongodb+srv://Filestre4mbot:Filestream4bot@cluster0.j0hcwom.mongodb.net/?retryWrites=true&w=majority # MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help search for a tutorial on youtbe
+      OWNER_ID:6264350r06 # Your Telegram User ID  like 1234509
       UPDATES_CHANNEL:Opleech # Put a Public Channel Username  without @, so every user have to Join that channel to use the bot. Must add bot to channel as Admin to work properly.IF DONT WANT KEEP VALUE AS None
-      OWNER_USERNAME:RDx_47c # Enter your username without @  example  adarsh
+      OWNER_USERNAME:RDxx_47c # Enter your username without @  example  adarsh
